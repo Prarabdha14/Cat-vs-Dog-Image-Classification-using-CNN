@@ -1,2 +1,4 @@
-# Cat-vs-Dog-Image-Classification-using-CNN
-This project is a deep learning application designed to classify images of cats and dogs using a Convolutional Neural Network (CNN). It utilizes image processing techniques and a CNN architecture to achieve high accuracy in distinguishing between the two classes.
+Features
+
+Data Augmentation: Enhances the training dataset with techniques like rotation, flipping, zooming, and more to improve model generalization.
+CNN Architecture: Utilizes convolutional layers to extract features, pooling layers for dimensionality reduction, and dense layers for classification.
